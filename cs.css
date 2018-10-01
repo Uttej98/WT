@@ -1,0 +1,48 @@
+a:link{color:blue};
+a:visited{color:cyan;}
+a:active{color:red;}
+a:hover{color:green;}
+
+body
+{
+ background-image:url("i1.jpg");
+ background-attachment:fixed;
+  background-repeat:repeat;
+  object-fit:cover;
+}
+.top
+{
+  background-color:lightgreen;
+  font-size:50;
+  background-image:url("2.jpg");
+}
+
+.txt
+{
+  text-align:center;
+  font-size:60;
+  color:white;
+}
+.link
+{
+  text-align:right;
+  font-weight:80;
+  font-size:25;
+}
+.l1
+{
+  text-decoration:none;
+  font-weight:bold;
+  cursor:crosshair;
+}
+ .l2
+ {
+   text-decoration:none;
+   font-weight:bold;
+   cursor:grab;
+ }
+.l3
+{
+   text-decoration:none;
+   font-weight:bold;
+   cursor:wait; 
